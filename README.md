@@ -1,0 +1,2 @@
+# Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios
+Esta aplicación permite gestionar una agenda telefónica,  en donde se tendrán usuarios con datos como cedula, nombres, apellidos, correo y contraseña. Y cada uno de estos usuarios podrá tener asignado uno o más teléfonos de contacto de diferente tipo y operador. Cuenta con la capacidad de persistir datos en archivos, y control de excepciones.
